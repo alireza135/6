@@ -33,8 +33,8 @@ function run(msg, matches)
 end
 
 return {
-  description = "Shows bot telepatch", 
-  usage = "تله اسنیک": Shows bot telepatch",
+  description = "Shows bot TeleSnake", 
+  usage = "تله اسنیک: Shows bot TeleSnake",
   patterns = {
     "^تله اسنیک$"
   }, 
