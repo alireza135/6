@@ -319,7 +319,7 @@ ch: @SmokeUnion
 
 ]],
     help_text = [[
-🔥TeleSmoke🔥 list :
+🐍TeleSnake🐍 list :
  
 1-banhammer list ^
  
@@ -487,11 +487,8 @@ ch: @SmokeUnion
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
 
-Developer: @HanozamHamonam
+Developer: @Simple_And_Vague
 توسعه دهنده
-
-channel: @SmokeUnion
-کانال ما
 
 G00D LUCK ^_^
 ]]
