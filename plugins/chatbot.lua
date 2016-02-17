@@ -25,7 +25,7 @@ if msg.text == "اوکی" then
 	return "من حاضرم تو کی؟"
 end	
 if msg.text == "بای" then
-	return "داری میری اینم با خودت ببر"
+	return "ســــــــــیک باوو"
 end	
 if msg.text == "هاچ" then
 	return "هاچ نگاییدم"
