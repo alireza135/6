@@ -1,15 +1,15 @@
 do
 
 function run(msg, matches)
-  return 'NOD32-BOT v5'.. VERSION .. [[ 
+  return '🐍TeleSnake🐍 v4.5'.. VERSION .. [[ 
  
-  Developer : @Behroozyaghi
+  Developer : @Simple_and_Vague
   
-  Channel : @Nod32team
+  Channel : -----
   
-  Open git : https://github.com/BH-YAGHI/NOD32-BOT.git
+  close git : https://github.com/***/***.git
   
-  NOD32 VERSION 5
+  TeleSnake VERSION 4.5
   
   All rights reserved.
   __________________]]
@@ -25,7 +25,3 @@ return {
 }
 
 end
---Copyright and edit; @behroozyaghi
---Persian Translate; @behroozyaghi
---ch : @nod32team
---کپی بدون ذکر منبع حرام است
