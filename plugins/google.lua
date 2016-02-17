@@ -32,14 +32,10 @@ end
 
 return {
   description = "Searches Google and send results",
-  usage = "!google [terms]: Searches Google and send results",
+  usage = "سرچ [terms]: Searches Google and send results",
   patterns = {
-    "^!google (.*)$",
-    "^%.[g|G]oogle (.*)$"
+    "^سرچ (.*)$",
+    "^%.سرچ (.*)$"
   },
   run = run
 }
---Copyright and edit; @behroozyaghi
---Persian Translate; @behroozyaghi
---ch : @nod32team
---کپی بدون ذکر منبع حرام است
