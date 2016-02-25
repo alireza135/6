@@ -1,17 +1,3 @@
---[[
-#
-# Show users information in groups 
-#
-# author: Arian < @Dragon_Born > 
-# our channel: @GPMod
-# Version: 2016-04-02
-#
-# Features added:
-# -- setrank on reply
-# -- get users info with their IDs and @username
-#
-]]
-
 do
 local Arian = 99530862 --put your id here(BOT OWNER ID)
 
