@@ -250,7 +250,7 @@ function create_config( )
 excuse me this close
 
 channel : @SmokeUnion
-sodu : @HanozamHamonm
+sodu : @Simple_And_Vague
 ]],
     help_text_realm = [[
 Realm Commands:
